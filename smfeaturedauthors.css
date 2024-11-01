@@ -1,0 +1,32 @@
+.smfa {
+	display: inline-block;
+	background: #f5f5f5;
+	padding: 2%;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin: 0 0 15px;
+	box-shadow: 0 0 5px #ccc;
+	width: 96%;
+}
+.smfa img {
+	float: left;
+	margin-right: 20px;
+	background: #fff;
+	padding: 10px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px #ccc;
+}
+.smfa .smfa-title {
+	color: #d45255;
+	font-size: 22px;
+	font-weight: normal;
+	margin: 0 0 5px;
+	display: inherit;
+}
+.smfa .smfa-description {
+	margin: 0 0 10.5px;
+}
+.smfa-readmore {
+text-align: right;
+}
